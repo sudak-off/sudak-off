@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 
  -->
  
- <h3 align="left">My portfolio:</h3>
+ <h3 align="left">Project:</h3>
 <p align="left">
 <a 
    href="https://github.com/stars/sudak-off/lists/valilajs"
