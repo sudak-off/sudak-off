@@ -10,12 +10,12 @@
 </a> <span> ( Stack: ReactJS + хуки, React Router(v5), Axios, SCSS, React Context, React Skeleton ) </span> </br>
 
  <a 
-     href="https://sudak-off.github.io/calculator/" 
+     href="https://github.com/sudak-off/calculator" 
      target="blank">Calculator
 </a> <span> ( Stack: ReactJS + хуки, Css) </span> </br>
 
  <a 
-     href="https://sudak-off.github.io/movie-app-js/" 
+     href="https://github.com/sudak-off/movie-app-js" 
      target="blank">Movie-app
 </a> <span> ( Stack:  Html, Css, JavaScript) </span> </br>
 
