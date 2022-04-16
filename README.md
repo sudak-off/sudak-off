@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 
-<h3 align="left">Project: Stack</h3>
+<h3 align="left">Project:</h3>
 
  <a 
      href="https://github.com/sudak-off/e-commers-react" 
